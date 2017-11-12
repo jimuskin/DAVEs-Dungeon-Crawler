@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 533252fabd9290c43b687e7989cf2bb8
+timeCreated: 1498456953
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Controller
+    100010: Desk Chair
+    100012: Keyboard
+    100014: Large Room Floor
+    100016: Large Room Wall
+    100018: Lift
+    100020: Lift Fence
+    100022: Lift_Old
+    100024: LiftDoorBack L
+    100026: LiftDoorBack R
+    100028: LiftDoorFront L
+    100030: LiftDoorFront R
+    100032: //RootNode
+    100034: Mouse
+    100036: Mouse Enemy
+    100038: Office Desk
+    100040: PC Monitor
+    100042: PC Monitor_Broken
+    100044: Small Room Floor
+    100046: Small Room Wall
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Controller
+    400010: Desk Chair
+    400012: Keyboard
+    400014: Large Room Floor
+    400016: Large Room Wall
+    400018: Lift
+    400020: Lift Fence
+    400022: Lift_Old
+    400024: LiftDoorBack L
+    400026: LiftDoorBack R
+    400028: LiftDoorFront L
+    400030: LiftDoorFront R
+    400032: //RootNode
+    400034: Mouse
+    400036: Mouse Enemy
+    400038: Office Desk
+    400040: PC Monitor
+    400042: PC Monitor_Broken
+    400044: Small Room Floor
+    400046: Small Room Wall
+    2300000: Controller
+    2300002: Desk Chair
+    2300004: Keyboard
+    2300006: Large Room Floor
+    2300008: Large Room Wall
+    2300010: Lift
+    2300012: Lift Fence
+    2300014: Lift_Old
+    2300016: LiftDoorBack L
+    2300018: LiftDoorBack R
+    2300020: LiftDoorFront L
+    2300022: LiftDoorFront R
+    2300024: Mouse
+    2300026: Office Desk
+    2300028: PC Monitor
+    2300030: PC Monitor_Broken
+    2300032: Small Room Floor
+    2300034: Small Room Wall
+    2300036: //RootNode
+    3300000: Controller
+    3300002: Desk Chair
+    3300004: Keyboard
+    3300006: Large Room Floor
+    3300008: Large Room Wall
+    3300010: Lift
+    3300012: Lift Fence
+    3300014: Lift_Old
+    3300016: LiftDoorBack L
+    3300018: LiftDoorBack R
+    3300020: LiftDoorFront L
+    3300022: LiftDoorFront R
+    3300024: Mouse
+    3300026: Office Desk
+    3300028: PC Monitor
+    3300030: PC Monitor_Broken
+    3300032: Small Room Floor
+    3300034: Small Room Wall
+    3300036: //RootNode
+    4300000: Large Room Floor
+    4300002: Small Room Floor
+    4300004: Large Room Wall
+    4300006: Small Room Wall
+    4300008: Lift Fence
+    4300010: Office Desk
+    4300012: PC Monitor
+    4300014: Keyboard
+    4300016: Mouse
+    4300018: Desk Chair
+    4300020: Lift_Old
+    4300022: Lift
+    4300024: LiftDoorBack L
+    4300026: LiftDoorBack R
+    4300028: LiftDoorFront L
+    4300030: LiftDoorFront R
+    4300032: Controller
+    4300034: PC Monitor_Broken
+    4300036: Mouse Enemy
+    9500000: //RootNode
+    13700000: Mouse Enemy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
